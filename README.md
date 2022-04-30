@@ -6,8 +6,5 @@
         <th>
             <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=NotHydra&langs_count=5&theme=merko"/>
         </th>
-        <th>
-            <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHydra&langs_count=5&theme=merko"/>
-        </th>
     </table>
 </div>

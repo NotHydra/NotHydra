@@ -8,3 +8,5 @@
         </th>
     </table>
 </div>
+
+![](https://komarev.com/ghpvc/?username=NotHydra&color=58A6FF&style=for-the-badge)

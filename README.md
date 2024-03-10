@@ -10,3 +10,4 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=NotHydra&color=58A6FF&style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/5b7e3f39-0873-4027-88a2-f75e7adc05c0.svg?style=for-the-badge)](https://wakatime.com/@5b7e3f39-0873-4027-88a2-f75e7adc05c0)
